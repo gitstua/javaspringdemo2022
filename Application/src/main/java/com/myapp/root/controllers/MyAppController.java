@@ -10,9 +10,10 @@ public class MyAppController {
     public String index() {
         return "index.html";
     }
-    
-    @RequestMapping("/test")
-    public String index() {
-        return "index.html";
-    }    
+
+    @RequestMapping(value = "/test")
+    @ResponseBody
+    public String getDataFromTestPath(){
+            return "response from testpath";
+    }
 }
