@@ -19,3 +19,4 @@ branches:
       required_pull_request_reviews:
         # The number of approvals required. (1-6)
         required_approving_review_count: 1
+ 
