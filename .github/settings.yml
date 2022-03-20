@@ -23,5 +23,5 @@ branches:
         dismiss_stale_reviews: false
         require_code_owner_reviews: true
         # The number of approvals required. (1-6)
-        required_approving_review_count: 1
+        required_approving_review_count: 2
       
