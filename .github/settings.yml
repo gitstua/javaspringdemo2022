@@ -5,7 +5,7 @@ repository:
   name: javaspringdemo2022
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo3
+  description: description of repo4
   
   # Either `true` to enable the wiki for this repository, `false` to disable it. 
   has_wiki: false
